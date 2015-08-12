@@ -1,0 +1,26 @@
+{
+  "name": "iron-node-process-exit-break",
+  "version": "1.0.0",
+  "description": "Adds a breakpoint to process.exit",
+  "main": "index.js",
+  "iron_node_package": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-a/iron-node-process-exit-break.git"
+  },
+  "keywords": [
+    "iron-node",
+    "plugin",
+    "addon",
+    "package"
+  ],
+  "author": "Stephan Ahlf <stephan.ahlf@gmail.com> (https://github.com/s-a)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-a/iron-node-process-exit-break/issues"
+  },
+  "homepage": "https://github.com/s-a/iron-node-process-exit-break#readme"
+}
